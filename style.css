@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(48, 48, 48);
+}
+
+.LOGO{
+    background-color: rgb(48, 48, 48);
+}
+
+.LOGO .Home-Page button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(48, 48, 48);
+    border: 0px;
+    cursor: pointer;
+    padding: auto;
+    
+}
+
+.LOGO .Games-Page button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(48, 48, 48);
+    border: 0px;
+    cursor: pointer;
+}
+
+.LOGO .Home-Page button:hover{
+    color: grey;
+}
+
+.LOGO .Games-Page button:hover{
+    color: grey;
+}
+
+.Navbar .LOGO input{
+    color: grey;
+    width: 1075px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    padding: 9px;
+    font-size: large;
+}

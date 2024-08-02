@@ -1,0 +1,89 @@
+*{
+    background-color: rgb(48, 48, 48);
+}
+
+header .Navbar .LOGO{
+    background-color: rgb(48, 48, 48);
+}
+
+.LOGO{
+    background-color: rgb(48, 48, 48);
+}
+
+.LOGO .Home-Page button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(48, 48, 48);
+    border: 0px;
+    cursor: pointer;
+    padding: auto;
+    font-size: large;
+    font-weight: 450;
+    
+}
+
+.LOGO .Games-Page button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(48, 48, 48);
+    border: 0px;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 450;
+}
+
+.LOGO .Home-Page button:hover{
+    color: grey;
+}
+
+.LOGO .Games-Page button:hover{
+    color: grey;
+}
+
+.Navbar .LOGO input{
+    color: grey;
+    width: 1038.55px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 1px;
+    border-radius: 24px;
+    border: 2px solid #ffffff;
+    padding: 7px;
+    font-size: large;
+}
+
+.Games-Logo .Solitary-image-Main img{
+    width: 332px;
+    border:1px solid #fff;
+    border-radius: 50px;
+}
+
+.Games-Logo .Bubble-Tumble-image-Main img{
+    width: 322px;
+    border:1px solid #fff;
+    border-radius: 50px;
+}
+
+.Games-Logo .Jungle-Sniper-image-Main img{
+    width: 328px;
+    border:1px solid #fff;
+    border-radius: 50px;
+}
+
+.Games-Logo .Bubble-Buster-image-Main img{
+    width: 328px;
+    border:1px solid #fff;
+    border-radius: 50px;
+}
+
+.Games-Logo .Ballon-Maze-image-Main img{
+    width: 326px;
+    height: 322px;
+    border:1px solid #fff;
+    border-radius: 50px;
+}
+
+.Games-Logo .Ninja-Breakout-image-Main img{
+    width: 328px;
+    border: 1px none #fff;
+    border-radius: 50px;
+}
+
